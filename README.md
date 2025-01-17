@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Babajan+Geldimuradow+%7C+Geldimuradowich;Firebase+%7C+Backend+%7C+APIs;Always+Learning+%7C+Always+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Babajan+Geldimuradow+%7C+ 
+           Geldimuradowich;Firebase+%7C+Backend+%7C+APIs;Always+Learning+%7C+Always+Improving" alt="Typing SVG" />
 </p>
 ### 🚀 About Me
 

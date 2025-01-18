@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Babajan Geldimuradow 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=+BBabajan/GGeldimuradow+%7C+Node.Js+Cybersecurity;Firebase+%7C+Backend+%7C+APIs;Always+Learning+%7C+Always+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=+php/laravel+%7C+httm+css+Cybersecurity;Firebase+%7C+Backend+%7C+APIs;Always+Learning+%7C+Always+Improving" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me

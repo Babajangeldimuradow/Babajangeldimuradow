@@ -6,14 +6,14 @@
 
 ### 🚀 About Me
 
-🌟 Passionate **Flutter Developer** with expertise in building responsive and high-quality mobile applications.  
-📱 Specializing in **Flutter**, **Dart**, **Firebase**, and **Android Development**.  
+🌟 Passionate **Laravel Developer** with expertise in building responsive and high-quality web applications.  
+📱 Specializing in **Laravel**, **Symfony**, **MySQL**, and **Cybersecurity**.  
 🎯 My goal: Deliver **impactful solutions** and learn new technologies every day!  
 
-- 🔭 I’m currently working on **[Your Latest Project]**.
+- 🔭 I’m currently working on **Electron_hospital; Woocommerce**.
 - 🌱 Learning advanced **Cloud Functions** and **State Management** techniques.
 - 🎨 Fun fact: I love crafting intuitive **UI/UX designs**.
-- 📫 **Connect with me:** [Your Email or Social Media Links]
+- 📫 **Connect with me:** f.gump248651937@gmail.com ;telegramm;WhatsApp;Linkedln!
 
 ---
 

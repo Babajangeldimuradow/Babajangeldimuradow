@@ -1,19 +1,19 @@
 
 <h1 align="center">Hi there, I'm Babajan Geldimuradow 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=+php/laravel+%7C+httm+css+Cybersecurity;Firebase+%7C+Backend+%7C+APIs;Always+Learning+%7C+Always+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=laravel+%7C+fullstack;Firebase+%7C+Teamlead+%7C+APIs;Learning+%7C+Improving" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
 
 🌟 Passionate **Laravel Developer** with expertise in building responsive and high-quality web applications.  
-📱 Specializing in **Laravel**, **Symfony**, **MySQL**, and **Cybersecurity**.  
+📱 Specializing in **Laravel**,**flutter**, **Symfony**, **MySQL**, and **Cybersecurity**.  
 🎯 My goal: Deliver **impactful solutions** and learn new technologies every day!  
 
-- 🔭 I’m currently working on **Electron_hospital; Woocommerce**.
+- 🔭 I’m currently working on **Electron_hospital; Woocommerce ; Any modern project**,.
 - 🌱 Learning advanced **Cloud Functions** and **State Management** techniques.
-- 🎨 Fun fact: I love crafting intuitive **UI/UX designs**.
-- 📫 **Connect with me:** f.gump248651937@gmail.com ;telegramm;WhatsApp;Linkedln!
+- 🎨 Fun fact: I love crafting intuitive **UI/UX designs; CI/CD**.
+- 📫 **Connect with me:**+99363949598 f.gump248651937@gmail.com ;telegramm;WhatsApp;Linkedln;Imo;Link...!
 
 ---
 
@@ -46,14 +46,14 @@
 ---
 
 ### 🌟 Featured Projects
-#### 🖥️ [**Project Name 1**](https://github.com/YourGitHubUsername/Project1)
+#### 🖥️ [**Modern functionally best project**](https://github.com/Babajangeldimuradow/crudx)
 > A short description of the project.  
-✔️ Built with **Flutter** and **Firebase**.  
+✔️ Built with **Larave; 12+** and **php**.  
 ✔️ Features include **X, Y, Z**.
 
-#### 📱 [**Project Name 2**](https://github.com/YourGitHubUsername/Project2)
+#### 📱 [**Electron hospital 2025**](https://github.com/Babajangeldimuradow/hospital)
 > Another short description.  
-✔️ Includes **state management** using **Provider**.  
+✔️ Includes **laravel,bootstrap** using **PHP**.  
 ✔️ Uses **Custom Animations**.
 
 ---

@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 🌟 Passionate **Laravel Developer** with expertise in building responsive and high-quality web applications.  
-📱 Specializing in **Laravel**,**flutter**, **Symfony**, **MySQL**, and **Cybersecurity**.  
+📱 Specializing in **Laravel**,**Flutter**, **Goolang**, **MySQL**, and **Cybersecurity**.  
 🎯 My goal: Deliver **impactful solutions** and learn new technologies every day!  
 
 - 🔭 I’m currently working on **Electron_hospital; Woocommerce ; Any modern project**,.

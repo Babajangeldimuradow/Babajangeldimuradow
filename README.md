@@ -1,9 +1,13 @@
-<!-- Babajan Geldimuradow | Creative GitHub Profile README -->
+<!-- Babajan Geldimuradow | Creative Premium GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514574/39013/rocket.gif?1643514574" width="30"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514574/39013/rocket.gif?1643514574" width="35"/>
   Hi there, I'm <span style="color:#ff4b4b;">Babajan Geldimuradow</span> 🚀
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%7C+Flutter+%7C+Go+Enthusiast;Building+Real-time+Apps;Always+Learning+New+Tech+🔥" alt="Typing SVG" />
+</p>
  ✨ Fun Section
 
 <p align="center">
@@ -20,13 +24,13 @@
 
 ---
 
- 🚀 About Me
+🚀 About Me
 
-🌟 Passionate **Fullstack Developer** from Turkmenistan 🇹🇲  
-💻 Experienced in **Laravel**, **Flutter**, **Go**, **MySQL**, and **Cybersecurity**  
-🎯 I love building impactful web and mobile apps that make a difference.  
-🧩 Currently exploring **WebSockets**, **Real-Time Apps**, and **Microservices**  
-☁️ Learning about **Cloud Functions** and **CI/CD pipelines**
+💻 Fullstack Developer specializing in **Laravel**, **Flutter**, and **Go**  
+🎯 Passionate about building **real-time applications** and **microservices**  
+☁️ Constantly learning **cloud automation**, **Redis**, and **CI/CD pipelines**  
+🧠 Interested in **Cybersecurity** and **API design**  
+📍 Based in **Ashgabat, Turkmenistan 🇹🇲**  
 
 
 ### 📫 Let's Connect!
@@ -41,8 +45,11 @@
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  
+
 </p>
 
 #### ☁️ Backend & Databases:

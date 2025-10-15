@@ -4,7 +4,15 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1643514574/39013/rocket.gif?1643514574" width="30"/> 
   Hi there, I'm <span style="color:#ff4b4b;">Babajan Geldimuradow</span> 🚀
 </h1>
+ ✨ Fun Section
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  💬 “Code is like humor. When you have to explain it, it’s bad.”  
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%F0%9F%9A%80;Laravel+%7C+Flutter+%7C+Go+Enthusiast;Lifelong+Learner+%F0%9F%93%9A;Building+Cool+Stuff+Everyday+%F0%9F%92%BB" alt="Typing SVG" />
@@ -12,7 +20,7 @@
 
 ---
 
-### 🚀 About Me
+ 🚀 About Me
 
 🌟 Passionate **Fullstack Developer** from Turkmenistan 🇹🇲  
 💻 Experienced in **Laravel**, **Flutter**, **Go**, **MySQL**, and **Cybersecurity**  
@@ -50,7 +58,7 @@
 
 ---
 
-### 📈 My GitHub Stats
+ 📈 My GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Babajangeldimuradow&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babajangeldimuradow&layout=compact&theme=radical" alt="Top Languages" />
@@ -58,17 +66,9 @@
 
 ---
 
-### ✨ Fun Section
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" />
-</p>
 
-<p align="center">
-  💬 “Code is like humor. When you have to explain it, it’s bad.”  
-</p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Babajangeldimuradow&label=Profile+Views&color=blueviolet&style=flat-square" />
@@ -79,9 +79,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BabajanGeldimuradow&theme=radical" alt="Streak Stats" />
 </p>
 
----
 
-### 🏅 Profile Views
+
+ 🏅 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Babajangeldimuradow&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>

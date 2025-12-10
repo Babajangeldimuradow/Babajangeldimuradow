@@ -31,7 +31,7 @@
 📍 Based in **Ashgabat, Turkmenistan 🇹🇲**  
 
 
-### 📫 Let's Connect!
+ 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:f.gump248651937@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>

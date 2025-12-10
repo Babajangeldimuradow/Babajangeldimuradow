@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514574/39013/rocket.gif?1643514574" width="35"/>
-  Hi there, I'm <span style="color:#ff4b4b;">Babajan Geldimuradow</span> 🚀
+  Hi , I'm <span style="color:#ff4b4b;">Babajan Geldimuradow</span> 🚀
 </h1>
 
 <p align="center">
